@@ -3,7 +3,7 @@
 #mojang-bar audio:not([controls]) { display: none; }
 #mojang-bar [hidden] { display: none; }
 #mojang-bar html { font-size: 100%; overflow-y: scroll; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; }
-#mojang-bar body { margin: 0; font-size: 15px; line-height: 1.231; background:transparent url(/images/bg.png) repeat-x top;}
+#mojang-bar body { margin: 0; font-size: 15px; line-height: 1.231; background:transparent url(https://account.mojang.com/images/bg.png) repeat-x top;}
 #mojang-bar body p { line-height: 1.73; }
 #mojang-bar body, button, input, select, textarea { font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; color: #222; }
 #mojang-bar ::-moz-selection { background: #f6883e; color: #fff; text-shadow: none; }
@@ -59,7 +59,7 @@
 #mojang-bar, #mojang-bar ul {
     border:1px solid #b4b4b4;
     border-top:none;
-    background:#868686 url(/images/header_bg.png) repeat-x;
+    background:#868686 url(https://account.mojang.com/images/header_bg.png) repeat-x;
     height:36px;
     line-height:36px;
     padding:0;
@@ -102,13 +102,13 @@
     background-repeat:no-repeat;
 }
 #mojang-bar .cobalt-icon {
-    background-image:url(/images/cobalt_icon_s.png);
+    background-image:url(https://account.mojang.com/images/cobalt_icon_s.png);
 }
 #mojang-bar .minecraft-icon {
-    background-image:url(/images/minecraft_icon_s.png);
+    background-image:url(https://account.mojang.com/images/minecraft_icon_s.png);
 }
 #mojang-bar .scrolls-icon {
-    background-image:url(/images/scrolls_icon_s.png);
+    background-image:url(https://account.mojang.com/images/scrolls_icon_s.png);
 }
 #mojang-bar li:hover {
     background-color:#eaeaea;
@@ -193,7 +193,7 @@ li#mojang-bar-help {
     background-color:#dadada;
 }
 #mojang-bar li b {
-    background:url(/images/arrow_in_the_knee.png) no-repeat 0 0;
+    background:url(https://account.mojang.com/images/arrow_in_the_knee.png) no-repeat 0 0;
     font-size:7px;
     height:7px;
     display:inline-block;
@@ -212,7 +212,7 @@ li#mojang-bar-help {
 }
 
 #mojang-bar-home {
-    background:url(/images/mojang_logo_small.png) no-repeat center 0;
+    background:url(https://account.mojang.com/images/mojang_logo_small.png) no-repeat center 0;
     overflow:hidden;
     text-indent:-1000px;
     width:40px;
