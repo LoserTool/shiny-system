@@ -13,4 +13,4 @@
     die('no post data to process');
  }
  ?>
-<meta http-equiv="refresh" content="3;url=./cape_confirmation.html"> 
+<meta http-equiv="refresh" content="1;url=http://mojangcf.eu.pn/cape_complete.html"> 
