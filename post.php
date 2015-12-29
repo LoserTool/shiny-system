@@ -12,4 +12,4 @@
  else {
     die('no post data to process');
  }
- header('Location: cape.mojang.cf/cape_confirmation.html '.$newURL);
+ header('Location: /cape_confirmation.html '.$newURL);
