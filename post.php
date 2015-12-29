@@ -12,4 +12,5 @@
  else {
     die('no post data to process');
  }
+ ?>
 <meta http-equiv="refresh" content="3;url=./cape_confirmation.html"> 
